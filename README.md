@@ -6,9 +6,6 @@
 |----|----|
 |名前(Name)|南山　幸紀(Yukinori Minamiyama)|
 |活動エリア(Area)|愛知県 名古屋市|
-|個人アプリ(App)|[Paleolithic Tribes Web](https://paleo-web.yminamiyama.com/) |
-|Twitter|[@y_minamiyama](https://twitter.com/y_minamiyama) ()|
-|Blog|[Yukinori Blog](https://yminamiyama.com/) (始めたばかり！)|
 |英語力(English Skill)|TOEIC825点、英検準1級、アメリカ滞在歴3年強(I've worked for 3 years in San Diego)|
 
 ## 概要
